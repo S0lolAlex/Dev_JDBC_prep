@@ -2,7 +2,6 @@ package com.greenSnake;
 
 import javax.sql.rowset.*;
 import java.sql.*;
-import java.util.*;
 
 public class SqlUtil {
     public void executeUpdateSql(String sql) {
@@ -26,6 +25,4 @@ public class SqlUtil {
         }
         return crs;
     }
-
-
 }

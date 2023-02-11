@@ -2,4 +2,4 @@
 'Dave';
 'Alex';
 'Bonny';
-'Sam';
+'Sam'
